@@ -31,6 +31,6 @@ To run the tests, use the command npm test from the command line.
 
 We welcome contributions to this project. If you have an idea or have discovered a bug, please open an issue to discuss the problem. If you would like to contribute to the code, please fork the repository and create a pull request with your changes.
 
-##License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
