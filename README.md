@@ -20,7 +20,7 @@ Express
 MongoDB
 ## Setup
 
-Clone the repository to your local machine using git clone https://github.com/{<username>}/grubdash-api.git
+Clone the repository to your local machine using git clone https://github.com/{username}/grubdash-api.git
 Install the dependencies using npm install
 Create a .env file with your MongoDB connection string
 Start the API using npm start
